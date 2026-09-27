@@ -1,0 +1,1582 @@
+{
+  "currency": "VND",
+  "note": "Giá chép từ ảnh menu, quy đổi số trên menu sang nghìn đồng. Không bao gồm mọi phụ thu; ảnh gốc là nguồn đối chiếu. Cần xác nhận giá trước khi mở bán.",
+  "items": [
+    {
+      "category": "Coffee",
+      "name": "Phê đen / Espresso",
+      "variant": "S",
+      "price_vnd": 28000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê đen / Espresso",
+      "variant": "M",
+      "price_vnd": 35000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê sữa",
+      "variant": "S",
+      "price_vnd": 30000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê sữa",
+      "variant": "M",
+      "price_vnd": 37000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Latte",
+      "variant": "S",
+      "price_vnd": 40000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Latte",
+      "variant": "M",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Cappuccino",
+      "variant": "S",
+      "price_vnd": 40000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Cappuccino",
+      "variant": "M",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Americano",
+      "variant": "S",
+      "price_vnd": 40000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Americano",
+      "variant": "M",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Caramel Hạnh Nhân",
+      "variant": "S",
+      "price_vnd": 46000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Caramel Hạnh Nhân",
+      "variant": "M",
+      "price_vnd": 50000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Yến Mạch",
+      "variant": "S",
+      "price_vnd": 43000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Yến Mạch",
+      "variant": "M",
+      "price_vnd": 49000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Mây Hạt Phỉ",
+      "variant": "S",
+      "price_vnd": 43000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Mây Hạt Phỉ",
+      "variant": "M",
+      "price_vnd": 49000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Sữa Dừa",
+      "variant": "S",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Sữa Dừa",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Couple Cheese",
+      "variant": "S",
+      "price_vnd": 47000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Couple Cheese",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Mây Marble",
+      "variant": "S",
+      "price_vnd": 32000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Phê Mây Marble",
+      "variant": "M",
+      "price_vnd": 39000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Salted Caramel",
+      "variant": "S",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Salted Caramel",
+      "variant": "M",
+      "price_vnd": 49000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Espresso Matcha Fusion",
+      "variant": "S",
+      "price_vnd": 45000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Coffee",
+      "name": "Espresso Matcha Fusion",
+      "variant": "M",
+      "price_vnd": 49000,
+      "source_image": "menu/06.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 45000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 50000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 47000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 47000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 50000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Haru",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 52000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 57000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 65000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 70000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 65000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 75000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 69000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 81000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Latte",
+      "variant": "S",
+      "price_vnd": 99000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Latte",
+      "variant": "M",
+      "price_vnd": 139000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 54000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 59000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 77000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 84000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 103000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 143000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 54000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 59000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 77000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 84000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Caramel Matcha Latte",
+      "variant": "S",
+      "price_vnd": 103000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Caramel Matcha Latte",
+      "variant": "M",
+      "price_vnd": 143000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 57000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 70000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 70000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 65000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 75000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 69000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 79000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 75000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 87000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Kyoto Sunrise",
+      "variant": "S",
+      "price_vnd": 105000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Kyoto Sunrise",
+      "variant": "M",
+      "price_vnd": 145000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 68000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 76000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 73000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 83000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 75000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 85000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 82000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 94000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Sakura",
+      "variant": "S",
+      "price_vnd": 110000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Sakura",
+      "variant": "M",
+      "price_vnd": 150000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 68000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 73000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 69000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 79000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 86000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Earl Grey Latte",
+      "variant": "S",
+      "price_vnd": 105000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Earl Grey Latte",
+      "variant": "M",
+      "price_vnd": 145000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 54000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 59000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 67000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 77000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 72000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 86000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "S",
+      "price_vnd": 103000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Matcha Hạt Dẻ Cười",
+      "variant": "M",
+      "price_vnd": 143000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 65000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 70000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 73000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 69000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 79000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 74000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 88000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Coco Matcha",
+      "variant": "S",
+      "price_vnd": 105000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Coco Matcha",
+      "variant": "M",
+      "price_vnd": 145000,
+      "source_image": "menu/02.jpg",
+      "note": "Coco Cold-whisked sữa dừa +7k"
+    },
+    {
+      "category": "Matcha Homies",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 45000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Ikigai",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 50000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha MH3 / Nekome",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Hisui / Kyoto",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 57000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha EM",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 62000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Matcha Samidori",
+      "name": "Usucha / Clear Matcha",
+      "variant": "Một giá",
+      "price_vnd": 94000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Inucha",
+      "name": "Latte",
+      "variant": "S",
+      "price_vnd": 50000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Inucha",
+      "name": "Latte",
+      "variant": "M",
+      "price_vnd": 58000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Inucha",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 52000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Inucha",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 60000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Rich",
+      "name": "Latte",
+      "variant": "S",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Rich",
+      "name": "Latte",
+      "variant": "M",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Rich",
+      "name": "Cold-whisked",
+      "variant": "S",
+      "price_vnd": 57000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Hojicha Rich",
+      "name": "Cold-whisked",
+      "variant": "M",
+      "price_vnd": 65000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Wakoucha",
+      "name": "Latte",
+      "variant": "S",
+      "price_vnd": 55000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Wakoucha",
+      "name": "Latte",
+      "variant": "M",
+      "price_vnd": 63000,
+      "source_image": "menu/02.jpg",
+      "note": ""
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Latte",
+      "variant": "S",
+      "price_vnd": 109000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Latte",
+      "variant": "M",
+      "price_vnd": 159000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Cold-whisked",
+      "variant": "S",
+      "price_vnd": 119000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Cold-whisked",
+      "variant": "M",
+      "price_vnd": 169000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Coco Matcha",
+      "variant": "S",
+      "price_vnd": 119000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Gyokuro",
+      "name": "Gyokuro Coco Matcha",
+      "variant": "M",
+      "price_vnd": 169000,
+      "source_image": "menu/04.jpg",
+      "note": "Limited Edition 2026; cần xác nhận còn hàng. Coco Cold-whisked +10k; thêm 1g +29k."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Phê Sữa Kem Rum",
+      "variant": "S",
+      "price_vnd": 38000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Phê Sữa Kem Rum",
+      "variant": "M",
+      "price_vnd": 48000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Phê Mây Kem Rum",
+      "variant": "S",
+      "price_vnd": 42000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Phê Mây Kem Rum",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Matcha Kem Rum",
+      "variant": "S",
+      "price_vnd": 54000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Matcha Kem Rum",
+      "variant": "M",
+      "price_vnd": 65000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Hojicha Kem Rum",
+      "variant": "S",
+      "price_vnd": 52000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Kem Rum",
+      "name": "Hojicha Kem Rum",
+      "variant": "M",
+      "price_vnd": 63000,
+      "source_image": "menu/05.jpg",
+      "note": "Seasonal menu; xem ảnh nguồn cho phụ thu."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew truyền thống",
+      "variant": "M",
+      "price_vnd": 45000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew truyền thống",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 65000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Chanh Vàng Mật Quế",
+      "variant": "M",
+      "price_vnd": 50000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Chanh Vàng Mật Quế",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 70000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Mơ Hà Nội",
+      "variant": "M",
+      "price_vnd": 55000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Mơ Hà Nội",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 75000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Sấu Xí",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Sấu Xí",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 72000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Sấu Margarita",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Sấu Margarita",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 72000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Bưởi Yuzu",
+      "variant": "M",
+      "price_vnd": 52000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Cold Brew",
+      "name": "Cold Brew Bưởi Yuzu",
+      "variant": "Chai thủy tinh 300ml",
+      "price_vnd": 72000,
+      "source_image": "menu/07.jpg",
+      "note": "Arabica mặc định; Ethiopia +15k. Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Oolong Ủ Lạnh",
+      "variant": "L",
+      "price_vnd": 15000,
+      "source_image": "menu/08.jpg",
+      "note": ""
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Bưởi Hoa Camellia",
+      "variant": "M",
+      "price_vnd": 45000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Bưởi Hoa Camellia",
+      "variant": "L",
+      "price_vnd": 49000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Yuzu Mộng Mơ",
+      "variant": "M",
+      "price_vnd": 43000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Yuzu Mộng Mơ",
+      "variant": "L",
+      "price_vnd": 48000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Nhài Cam Quýt",
+      "variant": "M",
+      "price_vnd": 43000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Nhài Cam Quýt",
+      "variant": "L",
+      "price_vnd": 48000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Sấu Ô Mai",
+      "variant": "M",
+      "price_vnd": 39000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Sấu Ô Mai",
+      "variant": "L",
+      "price_vnd": 45000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Sấu Khế Vàng",
+      "variant": "M",
+      "price_vnd": 43000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Sấu Khế Vàng",
+      "variant": "L",
+      "price_vnd": 48000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Khế Mật Dừa",
+      "variant": "M",
+      "price_vnd": 39000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Trà Oolong",
+      "name": "Trà Khế Mật Dừa",
+      "variant": "L",
+      "price_vnd": 45000,
+      "source_image": "menu/08.jpg",
+      "note": "Các món sấu theo mùa."
+    },
+    {
+      "category": "Bánh",
+      "name": "Croissant / Flat Croissant",
+      "variant": "Phần",
+      "price_vnd": 45000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Croissant Rum",
+      "variant": "Phần",
+      "price_vnd": 52000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Croissant Caramel / Choco",
+      "variant": "Phần",
+      "price_vnd": 48000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Croissant Hạnh Nhân",
+      "variant": "Phần",
+      "price_vnd": 52000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Bacon Cheese Pesto",
+      "variant": "Phần",
+      "price_vnd": 55000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Pain Au Choco",
+      "variant": "Phần",
+      "price_vnd": 49000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Bánh",
+      "name": "Toast Phô Mai Mozzarella",
+      "variant": "Phần",
+      "price_vnd": 45000,
+      "source_image": "menu/09.jpg",
+      "note": "Xem ảnh nguồn để xác nhận lựa chọn kem Rum/kem Rum Matcha."
+    },
+    {
+      "category": "Mochi & Gelato",
+      "name": "Mochi Matcha 30g",
+      "variant": "Phần",
+      "price_vnd": 25000,
+      "source_image": "menu/10.jpg",
+      "note": ""
+    },
+    {
+      "category": "Mochi & Gelato",
+      "name": "Mochi Vanilla 34g",
+      "variant": "Phần",
+      "price_vnd": 26000,
+      "source_image": "menu/10.jpg",
+      "note": ""
+    },
+    {
+      "category": "Mochi & Gelato",
+      "name": "Couple Mochi Set 2 viên",
+      "variant": "Phần",
+      "price_vnd": 54000,
+      "source_image": "menu/10.jpg",
+      "note": ""
+    },
+    {
+      "category": "Mochi & Gelato",
+      "name": "Gelato Matcha / Hojicha 1 viên",
+      "variant": "Phần",
+      "price_vnd": 18000,
+      "source_image": "menu/10.jpg",
+      "note": ""
+    },
+    {
+      "category": "Mochi & Gelato",
+      "name": "Affogato Matcha / Hojicha",
+      "variant": "Phần",
+      "price_vnd": 45000,
+      "source_image": "menu/10.jpg",
+      "note": ""
+    }
+  ]
+}
